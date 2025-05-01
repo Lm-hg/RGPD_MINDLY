@@ -1,4 +1,4 @@
-const url = "../asset/rgpd/Politique-de-confidentialite-rgpd-1.pdf"; 
+const url = "../asset/rgpd/rgpd.pdf"; 
 const pdfContainer = document.getElementById("pdf-container");
 const paymentBanner = document.getElementById("payment-banner");
 const linkSuite = document.getElementById("link-suite");
