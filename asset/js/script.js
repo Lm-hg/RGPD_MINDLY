@@ -1,5 +1,5 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.worker.min.js';
-const url = "../asset/rgpd/rgpd.pdf"; 
+const url = "./rgpd.pdf"; 
 const pdfContainer = document.getElementById("pdf-container");
 const paymentBanner = document.getElementById("payment-banner");
 const linkSuite = document.getElementById("link-suite");
